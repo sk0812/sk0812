@@ -1,4 +1,4 @@
-# Hi There! I'm Siddhanth 👋
+# Hi There! I'm Sid 👋
 
 I'm a first-year mathematics student at **King's College London (KCL)** with a passion for software development and programming.
 
