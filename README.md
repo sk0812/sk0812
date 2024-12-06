@@ -9,10 +9,10 @@ I'm a first-year mathematics student at **King's College London (KCL)** with a p
 - In addition to my studies, I run a **web agency called [CromoStudios](https://cromostudios.com)**, where we provide tailored digital solutions for businesses.
 
 ### 🔧 Tech Stack
-- **Languages**: Python, JavaScript, Java
-- **Frontend**: ReactJS, TailwindCSS
-- **Backend**: Node.js, Django
-- **Databases**: MongoDB, SQL
+- **Languages**: Python, JavaScript, Typescript
+- **Frontend**: ReactJS, TailwindCSS, NextJS
+- **Backend**: Node.js, Django, NextJS
+- **Databases**: MongoDB, SQL, Prisma
 
 ### 📫 Connect with Me
 - **LinkedIn**: [Your LinkedIn]([link](https://www.linkedin.com/in/sidkheria/))
