@@ -15,7 +15,7 @@ I'm a first-year mathematics student at **King's College London (KCL)** with a p
 - **Databases**: MongoDB, SQL, Prisma
 
 ### 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn]([link](https://www.linkedin.com/in/sidkheria/))
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/sidkheria/)
 - **Email**: sidkheria@gmail.com
 
 I'm open to collaboration, project ideas, and any exciting opportunities in tech. Feel free to reach out!
